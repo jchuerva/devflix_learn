@@ -36,3 +36,6 @@
 1. Add library `husky` to prevent bad commits : `npm i -D husky`. Configure it in `package.json`
 1. Add config folder and `index.js` for App configuration
 1. Add `npm i -D dotenv` and configure the `.env` file and config ☝️ file
+1. Create routes in `routes` folder
+1. Create `services` folder, where we add the functions that will call the DB
+1. Create `lib/db.js` to connect it to the DB
